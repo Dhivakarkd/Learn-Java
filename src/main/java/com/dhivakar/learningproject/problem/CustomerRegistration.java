@@ -1,3 +1,5 @@
+package com.dhivakar.learningproject.problem;
+
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
